@@ -1,0 +1,10 @@
+org/eclipse/emfcloud/modelserver/example/UpdateTaskNameCommandContribution$1.class
+org/eclipse/emfcloud/modelserver/example/ExampleServerLauncher.class
+org/eclipse/emfcloud/modelserver/example/client/ExampleXMISubscriptionListener.class
+org/eclipse/emfcloud/modelserver/example/CoffeePackageConfiguration.class
+org/eclipse/emfcloud/modelserver/example/client/ExampleJsonStringSubscriptionListener.class
+org/eclipse/emfcloud/modelserver/example/ExampleServerModule.class
+org/eclipse/emfcloud/modelserver/example/util/ResourceUtil.class
+org/eclipse/emfcloud/modelserver/example/client/ExampleModelServerClient.class
+org/eclipse/emfcloud/modelserver/example/UpdateTaskNameCommandContribution.class
+org/eclipse/emfcloud/modelserver/example/CoffeeRouting.class

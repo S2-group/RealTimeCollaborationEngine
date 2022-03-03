@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.44">
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/ExampleServerModule.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/util/ResourceUtil.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/CoffeePackageConfiguration.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/CoffeeRouting.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/ExampleServerLauncher.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/UpdateTaskNameCommandContribution.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/client/ExampleJsonStringSubscriptionListener.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/client/ExampleXMISubscriptionListener.java">
+</file>
+<file name="/Users/kousaraslam/Documents/emfcloud-modelserver/examples/org.eclipse.emfcloud.modelserver.example/src/main/java/org/eclipse/emfcloud/modelserver/example/client/ExampleModelServerClient.java">
+</file>
+</checkstyle>
